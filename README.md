@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yuanhao.
-- 👀 I’m interested in computer visioan and computer graphics.
+- 👀 I’m interested in computer vision, computer graphics and numeric methods.
 - 💞️ [home page](http://gong.ac.cn)
 - 📫 gong.ai@qq.com
 
